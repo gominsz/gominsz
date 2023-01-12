@@ -1,4 +1,4 @@
-* Full Stack Development - Student at ESTACIO 📖
+* ADS - Student at ESTACIO 📖
 * Front end developer
 * No coffee, no way
 
