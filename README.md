@@ -1,5 +1,5 @@
-* ADS - Student at ESTACIO 📖
-* Front end developer
+* Analysis and Systems Development Student at ESTACIO 📖
+* Front end developer by Udemy & Rocketseat
 * No coffee, no way
 
 <div align="center">
