@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Matheus Camargo👋 </h1>
-<h3 align="center">🚀 Backend Developer | No coffee, no wa ♥ </h3>
+<h3 align="center">🚀 Backend Developer | No coffee, no way ♥ </h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.tenor.com/6Smdek4g_mcAAAAd/bebendo-café-tomando-café.gif" />
 <div align="left"> 
@@ -7,7 +7,7 @@
 
   - 🚀 &nbsp; Backend developer by Udemy & Rocketseat
   - 📖 &nbsp; Analysis and Systems Development Student at ESTACIO 📖
-  - ☕ &nbsp; No coffee, no wa
+  - ☕ &nbsp; No coffee, no way
   - 🎧 &nbsp; I live to the sound of music
 
 </div> 
