@@ -1,28 +1,21 @@
-# <h1 align="center">💫 About Me:</h1>                       
-* Analysis and Systems Development Student at ESTACIO 📖
-* Backend developer by Udemy & Rocketseat
-* No coffee, no wa
+<h1 align="center">Hey there! I'm Matheus Camargo👋 </h1>
+<h3 align="center">🚀 Backend Developer | No coffee, no wa ♥ </h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://media.tenor.com/6Smdek4g_mcAAAAd/bebendo-café-tomando-café.gif" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
+  - 🚀 &nbsp; Backend developer by Udemy & Rocketseat
+  - 📖 &nbsp; Analysis and Systems Development Student at ESTACIO 📖
+  - ☕ &nbsp; No coffee, no wa
+  - 🎧 &nbsp; I live to the sound of music
 
-
- <h1 align="center">GitHub Stats: </h1>
-# 
-<div align="center">
-  <a href="https://github.com/Gominsz">
-
-  <a href="https://github.com/Gominsz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gominsz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gominsz&layout=compact&langs_count=7&theme=synthwave"/>
+</div> 
 </div>
 
-
-#  <h1 align="center">💻 Tech Stack: </h1>  
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-##<h1 align="center">🌐 Socials:</h1>               
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#8681) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/GominhoXd/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gominsz/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomin/)
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"<img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <p>
+</div> 
