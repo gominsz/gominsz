@@ -7,8 +7,8 @@
 
   - 🚀 &nbsp; Backend developer by Udemy & Rocketseat
   - 📖 &nbsp; Analysis and Systems Development Student at ESTACIO 📖
+  - ⭐ &nbsp; If I don't know something, I'll go late to find out
   - ☕ &nbsp; No coffee, no way
-  - 🎧 &nbsp; I live to the sound of music
 
 </div> 
 </div>
